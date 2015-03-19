@@ -1,0 +1,9 @@
+C:\Users\Bill.Conn\Documents\Visual Studio 2013\FormsTests\TestRemoteLoadDataGrid\TestRemoteLoadDataGrid\bin\Debug\TestRemoteLoadDataGrid.exe.config
+C:\Users\Bill.Conn\Documents\Visual Studio 2013\FormsTests\TestRemoteLoadDataGrid\TestRemoteLoadDataGrid\bin\Debug\TestRemoteLoadDataGrid.exe
+C:\Users\Bill.Conn\Documents\Visual Studio 2013\FormsTests\TestRemoteLoadDataGrid\TestRemoteLoadDataGrid\bin\Debug\TestRemoteLoadDataGrid.pdb
+C:\Users\Bill.Conn\Documents\Visual Studio 2013\FormsTests\TestRemoteLoadDataGrid\TestRemoteLoadDataGrid\obj\Debug\TestRemoteLoadDataGrid.csprojResolveAssemblyReference.cache
+C:\Users\Bill.Conn\Documents\Visual Studio 2013\FormsTests\TestRemoteLoadDataGrid\TestRemoteLoadDataGrid\obj\Debug\TestRemoteLoadDataGrid.Properties.Resources.resources
+C:\Users\Bill.Conn\Documents\Visual Studio 2013\FormsTests\TestRemoteLoadDataGrid\TestRemoteLoadDataGrid\obj\Debug\TestRemoteLoadDataGrid.csproj.GenerateResource.Cache
+C:\Users\Bill.Conn\Documents\Visual Studio 2013\FormsTests\TestRemoteLoadDataGrid\TestRemoteLoadDataGrid\obj\Debug\TestRemoteLoadDataGrid.exe
+C:\Users\Bill.Conn\Documents\Visual Studio 2013\FormsTests\TestRemoteLoadDataGrid\TestRemoteLoadDataGrid\obj\Debug\TestRemoteLoadDataGrid.pdb
+C:\Users\Bill.Conn\Documents\Visual Studio 2013\FormsTests\TestRemoteLoadDataGrid\TestRemoteLoadDataGrid\obj\Debug\TestRemoteLoadDataGrid.Form1.resources
